@@ -43,7 +43,7 @@ hr {
 }
 
 .bottom-cloud {
-  left: 400px;
+  left: 250px;
   bottom: 300px;
   position: absolute;
 }
@@ -85,6 +85,10 @@ hr {
   font-size: 1.35rem;
 }
 
+.lego {
+  width: 23%;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -116,6 +120,7 @@ hr {
   background-color: #deeeea;
   position: relative;
   padding-top: 100px;
+  padding-bottom: 50px;
 }
 
 @media screen and (max-width: 768px) {
