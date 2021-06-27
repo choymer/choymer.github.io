@@ -85,6 +85,10 @@ hr {
   font-size: 1.35rem;
 }
 
+.lego {
+  width: 23%;
+}
+
 .pro {
   text-decoration: underline;
 }
