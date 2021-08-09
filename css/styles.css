@@ -89,6 +89,11 @@ hr {
   width: 23%;
 }
 
+.project-description {
+  display: inline;
+  font-size: 16px;
+}
+
 .pro {
   text-decoration: underline;
 }
