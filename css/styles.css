@@ -90,8 +90,8 @@ hr {
 }
 
 .project-description {
-  display: inline;
   font-size: 16px;
+  display: inline-block;
 }
 
 .pro {
